@@ -12,7 +12,7 @@ function parseCoordinateFromNumber(x: number, y: number): Coordinate {
   return { x, y };
 }
 
-//Overloading a Function
+//Overloading a Function with function
 function parseCoordinate(str: string): Coordinate; //for the string value
 function parseCoordinate(obj: Coordinate): Coordinate;
 function parseCoordinate(x: number, y: number): Coordinate;
