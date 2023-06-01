@@ -17,11 +17,11 @@ let myRegex: RegExp = /foo/;
 console.log(myRegex);
 
 //For Arrays
-// -first method
+// -first method 1
 const fruits: string[] = ["mango", "banana", "orange", "apple"];
 console.log(fruits);
 
-//-second method
+//-second method 2
 const scores: Array<number> = [42, 45, 22, 87, 50];
 console.log(scores);
 
