@@ -1,0 +1,5 @@
+[
+  { "name": "Prime", "planets": "Laughtale" },
+  { "name": "JoyBoy", "planets": ["Sagetron", "Sky Island", "Wano"] },
+  { "name": "Senpai", "planets": ["Zhuo", "Carter", "Franx"] }
+]
